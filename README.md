@@ -3,3 +3,5 @@ tent      = { name = 'tent',      label = 'tent',         weight = 100, type = '
 
 
 --- add image to inventory html images 
+
+use target on tent and relieve stress
